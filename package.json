@@ -28,6 +28,7 @@
     "dev-ps": "run-p postcss & npm run develop"
   },
   "devDependencies": {
+    "graphql-tools": "^2.21.0",
     "npm-run-all": "^4.1.2",
     "postcss": "^6.0.17",
     "postcss-cli": "^5.0.0",

@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import SelectLanguage from './SelectLanguage';
 
-const Header = () => (
+const Header = ( props ) => (
   <div
     style={{
       background: 'rebeccapurple',
